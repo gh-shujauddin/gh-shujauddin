@@ -46,5 +46,14 @@
 
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&" alt="ShujauddinQadri" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav07Singh&langs_count=8&theme=react")](https://github.com/Gaurav07Singh/github-readme-stats"/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav07Singh&show_icons=true&theme=react" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gaurav07Singh&theme=react" alt="Gaurav07Singh" /> </p> 
+          <div align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Gaurav07Singh&theme=react-dark&count_private=true">
+          </div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
