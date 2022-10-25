@@ -13,10 +13,14 @@
 
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shqadri)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sh__qadri)
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.linkedin.com/in/shqadri/">
+  <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png"/>
+</a>
+<a href="https://www.twitter.com/sh__qadri/">
+  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/>
+</a>
+<a href="https://leetcode.com/qadri81/">
+  <img height="50" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"/>
 </a>
 
 
