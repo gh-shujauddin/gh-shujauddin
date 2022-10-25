@@ -13,14 +13,21 @@
 
 
 ## 🔗 Links
-<a href="https://www.linkedin.com/in/shqadri/">
-  <img height="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/linkedin-512.png"/>
-</a>
-<a href="https://www.twitter.com/sh__qadri/">
-  <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/>
-</a>
-<a href="https://leetcode.com/qadri81/">
-  <img height="50" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"/>
+<p align="left">
+<a href="https://codepen.io/shujauddinQadri" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shujauddinQadri" height="30" width="40" /></a>
+<a href="https://www.twitter.com/sh__qadri/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sh__qadri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shqadri/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@shqadri" height="30" width="40" /></a>
+<a href="https://leetcode.com/qadri81/" target="blank">
+<img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="@qadri81" height="30" width="40" /></a>
+</p>
+
+
+
+<a href="">
+  <img height="50" src=""/>
 </a>
 
 
