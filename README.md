@@ -47,8 +47,7 @@
 <!-- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&" alt="ShujauddinQadri" /></p>
  -->
-<div width="100%"><p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&langs_count=8&theme=react"></p></div>
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&langs_count=8&theme=react"></p>
 <div height="180em">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
 <p><img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /> </p> 
