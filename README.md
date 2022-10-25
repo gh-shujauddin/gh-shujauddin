@@ -24,13 +24,6 @@
 <img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="@qadri81" height="30" width="40" /></a>
 </p>
 
-
-
-<a href="">
-  <img height="50" src=""/>
-</a>
-
-
 ## 🛠 Skills
 Java, HTML, CSS, Bootstrap, Python, PHP, MySQL
 
