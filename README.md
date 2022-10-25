@@ -2,19 +2,19 @@
 
 ## 
 ## 🚀 About Me
-I'm an second year CS student
+I'm a third year CSE student
 
 
 ## Other Common Github Profile Section
 - 👋 Hi, I’m @gh-shujauddin
-- 👩‍💻 I'm currently working on front-end projects
-- 🧠 I'm currently learning java programming language
+- 👩‍💻 I'm currently working on Projects using Java.
+- 🧠 I'm currently learning android development.
 - 👀 I’m interested in app development
-- 💞️ I’m looking to collaborate on front-end projects
+- 💞️ I’m looking to collaborate on java Projects.
 - 💬 Ask me about collaborate in some projects
 - 📫 Reach me on mshuja.uq@gmail.com
 - 😄 Pronouns He
-- ⚡️ Fun fact: let's have fun then decide
+- ⚡️ Fun fact: I don't know I love front-end or back-end 
 
 
 ## 🔗 Links
@@ -23,7 +23,7 @@ I'm an second year CS student
 
 
 ## 🛠 Skills
-Java, HTML, CSS, Python, C, PHP, MySQL
+Java, HTML, CSS, Bootstrap, Python, PHP, MySQL
 
 
 <!---
