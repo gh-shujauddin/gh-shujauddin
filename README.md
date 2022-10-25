@@ -65,5 +65,3 @@
  
  
 <div style="margin-top: 10px;"><img src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></div>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
