@@ -59,8 +59,8 @@
 
 
 <div height="180em">
-<p><img src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
-<p><img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /> </p> 
+<p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /> </p> 
 <div>
  
  
