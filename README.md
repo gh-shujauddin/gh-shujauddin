@@ -1,9 +1,10 @@
-# Hi, I'm Shujauddin Qadri! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&&height=300&section=header&text=Hey,%20I'm%20Shujauddin%20Qadri!%20👋&animation=fadeIn&fontSize=50&desc=Learning%20Android%20Developer&fontAlignY=40" />
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?&page_id=gh-shujauddin&text=Visits&style=for-the-badge&logo=github" />
 
-## 
-## 🚀 About Me
-I'm a third year CSE student
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Other Common Github Profile Section
 - 👋 Hi, I’m @gh-shujauddin
