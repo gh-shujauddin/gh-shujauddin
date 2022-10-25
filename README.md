@@ -4,6 +4,8 @@
 
 
 ## Talking about Personal Stuffs
+
+
 - 👩‍💻 I'm currently working on Projects using Java.
 - 🧠 I'm currently learning android development.
 - 👀 I’m interested in app development
@@ -13,6 +15,8 @@
 
 
 ## 🔗 Links
+
+
 <p align="left">
 <a href="https://codepen.io/shujauddinQadri" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shujauddinQadri" height="30" width="40" /></a>
@@ -25,6 +29,8 @@
 </p>
 
 ## 🛠 Skills
+
+
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -44,14 +50,20 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 
+
+
 <!-- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&" alt="ShujauddinQadri" /></p>
  -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&langs_count=8&theme=react"></p>
+
+
 <div height="180em">
 <p><img src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
 <p><img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /> </p> 
 <div>
+ 
+ 
 <div><img src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
