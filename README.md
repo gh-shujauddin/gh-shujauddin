@@ -63,4 +63,4 @@
 
 <p><img width="45%" align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /></p> 
 
-<p><img width="45%" align=right src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></p>
+<p><img align=right src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></p>
