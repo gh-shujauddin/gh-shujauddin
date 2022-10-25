@@ -55,15 +55,15 @@
 <!-- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 <p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&" alt="ShujauddinQadri" /></p>
  -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&langs_count=8&theme=react"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&langs_count=8&theme=react"></p>
 
 
-<div height="180em">
+<div>
 <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
 <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /> </p> 
 <div>
  
  
-<div><img src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></div>
+<div style="margin-top: 10px;"><img src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
