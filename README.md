@@ -43,7 +43,7 @@
 
 Bootstrap
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<p><img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanprakashkumar&" alt="gyanprakashkumar" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&" alt="ShujauddinQadri" /></p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
