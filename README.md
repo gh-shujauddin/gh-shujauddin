@@ -64,4 +64,4 @@
 <div>
  
  
-<p><img src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></p>
+<p><img align=left src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></p>
