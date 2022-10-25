@@ -53,6 +53,6 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
 <p><img align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /> </p> 
 <div>
-<div height="180em" ><img src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></div>
+<div><img src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></div>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
