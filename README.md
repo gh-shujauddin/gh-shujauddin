@@ -3,8 +3,7 @@
 
 
 
-## Other Common Github Profile Section
-- 👋 Hi, I’m @gh-shujauddin
+## Talking about Personal Stuffs
 - 👩‍💻 I'm currently working on Projects using Java.
 - 🧠 I'm currently learning android development.
 - 👀 I’m interested in app development
