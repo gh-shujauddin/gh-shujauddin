@@ -20,7 +20,7 @@
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png"/>
 </a>
 <a href="https://leetcode.com/qadri81/">
-  <img height="50" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"/>
+  <img height="50" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png"/>
 </a>
 
 
