@@ -39,6 +39,6 @@
 <a href="https://github.com/gh-shujauddin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/gh-shujauddin/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shujauddin&repo=convoychat" />
+<a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true" />
 </a>
