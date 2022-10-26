@@ -2,66 +2,39 @@
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?&page_id=gh-shujauddin&text=Visits&style=for-the-badge&logo=github" />
 
 
+<h1 align="center">Hi 👋, I'm Shujauddin Qadri</h1>
+<h3 align="center">A passionate android developer from India</h3>
 
-## Talking about Personal Stuffs
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gh-shujauddin&label=Profile%20views&color=0e75b6&style=flat" alt="gh-shujauddin" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gh-shujauddin" alt="gh-shujauddin" /></a> </p>
 
-- 👩‍💻 I'm currently working on Projects using Java.
-- 🧠 I'm currently learning android development.
-- 👀 I’m interested in app development
-- 💬 Ask me about collaborate in some projects
-- 📫 Reach me on mshuja.uq@gmail.com
-- ⚡️ Fun fact: I don't know that I love front-end or back-end 
+- 🔭 I’m currently working on **projects using Java**
 
+- 🌱 I’m currently learning **Android Development**
 
-## 🔗 Links
+- 👨‍💻 All of my projects are available at [#](#)
 
+- 📫 Reach me at **mshuja.uq@gmail.com**
 
+- 📄 Know about my experiences [https://gh-shujauddin.github.io/my-resume/](https://gh-shujauddin.github.io/my-resume/)
+
+- ⚡ Fun fact **I don't know that I love front-end or back-end**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shujauddinQadri" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shujauddinQadri" height="30" width="40" /></a>
-<a href="https://www.twitter.com/sh__qadri/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sh__qadri" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shqadri/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@shqadri" height="30" width="40" /></a>
-<a href="https://leetcode.com/qadri81/" target="blank">
-<img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="@qadri81" height="30" width="40" /></a>
+<a href="https://codepen.io/shujauddinqadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shujauddinqadri" height="30" width="40" /></a>
+<a href="https://twitter.com/sh__qadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sh__qadri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shqadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shqadri" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/qadri81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qadri81" height="30" width="40" /></a>
+<a href="https://discord.gg/5640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5640" height="30" width="40" /></a>
 </p>
 
-## 🛠 Skills
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh-shujauddin&show_icons=true&locale=en&layout=compact" alt="gh-shujauddin" /></p>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.getbootstrap.com/" target="_blank" rel="noreferrer"> 
-<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&locale=en" alt="gh-shujauddin" /></p>
 
-
-
-
-<!-- <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
-<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&" alt="ShujauddinQadri" /></p>
- -->
-
-
-<p><img width="45%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&langs_count=8&theme=react"></p>
-
-<p><img width="45%" align=left src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
-
-<!--<p><img width="45%" align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /></p> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<p><img align=right src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&" alt="gh-shujauddin" /></p>
