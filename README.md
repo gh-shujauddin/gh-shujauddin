@@ -8,7 +8,7 @@
 <p > <a href="https://twitter.com/sh__qadri" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/sh__qadri?logo=twitter&style=for-the-badge" alt="sh__qadri" /></a> </p>
 
 ---
-<h2> &f335;My GitHub Badges!</h2>
+<h2>   My GitHub Badges!</h2>
 
 <p align="center"> <a href="https://github.com/gh-shujauddin"><img
       src="https://github-profile-trophy.vercel.app/?username=gh-shujauddin&column=7" alt="gh-shujauddin" /></a> </p>
