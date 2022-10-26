@@ -59,7 +59,7 @@
 
 <p><img width="45%" align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&langs_count=8&theme=react"></p>
 
-<p><img width="45%" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
+<p><img width="45%" align=left src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
 
 <p><img width="45%" align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /></p> 
 
