@@ -69,21 +69,10 @@
       src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" /> </a>
 </p>
 
-
-<!-- <a href="https://github.com/gh-shujauddin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gh-shujauddin" />
-</a> -->
-
-<a href="https://github.com/gh-shujauddin/github-readme-stats">
-  <img width=48% align="center"
-    src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=dark&show_icons=true&hide_border=true" />
-</a>
 <a href="https://git.io/streak-stats">
   <img width=48% align="center" src="https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true" />
 </a>
-<a href="https://github.com/gh-shujauddin/github-readme-stats">
-  <img align="center" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&theme=noctis_minimus" />
-</a>
+
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
