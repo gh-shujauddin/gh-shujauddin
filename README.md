@@ -61,6 +61,7 @@
 
 <p><img width="45%" align=left src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=react" /></p>
 
-<p><img width="45%" align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /></p> 
+<!--<p><img width="45%" align=right src="https://github-readme-streak-stats.herokuapp.com/?user=gh-shujauddin&theme=react" alt="gh-shujauddin" /></p> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <p><img align=right src="https://activity-graph.herokuapp.com/graph?username=gh-shujauddin&theme=react-dark&count_private=true"></p>
