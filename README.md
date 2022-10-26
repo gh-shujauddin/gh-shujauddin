@@ -30,6 +30,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gh-shujauddin&show_icons=true&locale=en&layout=compact" alt="gh-shujauddin" /></p>
 
-![Shujauddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=radical)
+![Shujauddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=merko)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true)](https://git.io/streak-stats)
