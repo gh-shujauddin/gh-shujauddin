@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/gh-shujauddin"><img
       src="https://github-profile-trophy.vercel.app/?username=gh-shujauddin" alt="gh-shujauddin" /></a> </p>
-      [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+      ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)(https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **projects using Java**
 
