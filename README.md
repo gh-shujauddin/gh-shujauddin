@@ -1,11 +1,6 @@
 <p width=100%><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&&height=300&section=header&text=Hey,%20I'm%20Shujauddin%20Qadri!%20👋&animation=fadeIn&fontSize=50&desc=Learning%20Android%20Development&fontAlignY=40" /></p>
-<img src="https://visitor-badge-reloaded.herokuapp.com/badge?&page_id=gh-shujauddin&text=Visits&style=for-the-badge&logo=github" />
+<p align="left"><img src="https://visitor-badge-reloaded.herokuapp.com/badge?&page_id=gh-shujauddin&text=Visits&style=for-the-badge&logo=github" /></p>
 
-
-<h1 align="center">Hi 👋, I'm Shujauddin Qadri</h1>
-<h3 align="center">A passionate android developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gh-shujauddin&label=Profile%20views&color=0e75b6&style=flat" alt="gh-shujauddin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gh-shujauddin" alt="gh-shujauddin" /></a> </p>
 
@@ -13,7 +8,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at [https://github.com/gh-shujauddin](https://github.com/gh-shujauddin)
 
 - 📫 Reach me at **mshuja.uq@gmail.com**
 
