@@ -5,7 +5,7 @@
     src="https://visitor-badge-reloaded.herokuapp.com/badge?&page_id=gh-shujauddin&text=Visits&style=for-the-badge&logo=github" />
 </p>
 
-<p align="rifht"> <a href="https://twitter.com/sh__qadri" target="blank"><img src="https://img.shields.io/twitter/follow/sh__qadri?logo=twitter&style=for-the-badge" alt="sh__qadri" /></a> </p>
+<p align="right"> <a href="https://twitter.com/sh__qadri" target="blank"><img src="https://img.shields.io/twitter/follow/sh__qadri?logo=twitter&style=for-the-badge" alt="sh__qadri" /></a> </p>
 
 
 <p align="center"> <a href="https://github.com/gh-shujauddin"><img
