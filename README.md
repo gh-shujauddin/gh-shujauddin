@@ -30,15 +30,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&layout=compact)](https://github.com/gh-shujauddin/github-readme-stats)
 
-![Shujauddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=dark&show_icons=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 <a href="https://github.com/gh-shujauddin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=dark&show_icons=true" />
 </a>
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true" />
 </a>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
