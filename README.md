@@ -1,4 +1,4 @@
-<p width=100%><img
+<p align=center><img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey,%20I'm%20Shujauddin%20Qadri!%20👋&animation=fadeIn&fontSize=50&desc=Learning%20Android%20Development&fontAlignY=40" />
 </p>
 <p align="left"><img
