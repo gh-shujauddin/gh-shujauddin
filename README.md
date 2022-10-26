@@ -82,7 +82,14 @@
   <img width=48% align="center" src="https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/gh-shujauddin/github-readme-stats">
-  <img align="center" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin" />
+  <img align="center" width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&theme=noctis_minimus" />
+</a>
+---
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/gh-shujauddin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&theme=noctis_minimus&layout=compact" />
 </a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
