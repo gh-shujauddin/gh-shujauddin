@@ -74,11 +74,11 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/gh-shujauddin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&theme=dark&layout=compact" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true" />
+  <img align="center" src="https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark" />
 </a>
 
 ![Snake animation](https://github.com/gh-shujauddin/gh-shujauddin/blob/output/github-contribution-grid-snake.svg)
