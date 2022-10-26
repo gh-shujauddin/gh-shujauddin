@@ -30,7 +30,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&layout=compact)](https://github.com/gh-shujauddin/github-readme-stats)
 
-[![shujauddin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gh-shujauddin)](https://github.com/gh-shujauddin/github-readme-stats)
+[![shujauddin's wakatime stats]()](https://github.com/gh-shujauddin/github-readme-stats)
+
+<a href="https://github.com/gh-shujauddin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&layout=compact" />
+</a>
+<a href="https://github.com/gh-shujauddin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gh-shujauddin" />
+</a>
 
 <a href="https://github.com/gh-shujauddin/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=dark&show_icons=true" />
