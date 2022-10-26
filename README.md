@@ -36,9 +36,9 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/gh-shujauddin/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gh-shujauddin&show_icons=true&theme=dark&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/gh-shujauddin/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shujauddin&repo=convoychat" />
 </a>
