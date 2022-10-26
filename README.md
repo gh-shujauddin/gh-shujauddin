@@ -36,7 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gh-shujauddin&layout=compact" />
 </a>
 <a href="https://github.com/gh-shujauddin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gh-shujauddin" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gh-shujauddin&layout=compact" />
 </a>
 
 <a href="https://github.com/gh-shujauddin/github-readme-stats">
