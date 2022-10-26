@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=gh-shujauddin" alt="gh-shujauddin" /></a> </p>
 
 - 🔭 I’m currently working on **projects using Java**
