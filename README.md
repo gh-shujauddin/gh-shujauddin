@@ -80,7 +80,9 @@
 <a href="https://git.io/streak-stats">
   <img align="center" src="https://streak-stats.demolab.com?user=gh-shujauddin&theme=dark&hide_border=true" />
 </a>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/gh-shujauddin">
+  <img align="center" src="https://github.com/thepiyushmalhotra/gh-shujauddin/blob/output/github-contribution-grid-snake.svg" />
+</a>
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
