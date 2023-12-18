@@ -2,7 +2,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hey,%20I'm%20Shujauddin%20Qadri!%20👋&animation=fadeIn&fontSize=50&desc=Android%20Developer&fontAlignY=40" />
 </p>
 <p><img
-    src="https://visitor-badge-reloaded.herokuapp.com/badge?&page_id=gh-shujauddin&text=Visits&style=for-the-badge&logo=github"  align="left"/>
+    src="https://komarev.com/ghpvc/?username=gh-shujauddin"  align="left"/>
 </p>
 
 <p > <a href="https://twitter.com/sh__qadri" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/sh__qadri?logo=twitter&style=for-the-badge" alt="sh__qadri" /></a> </p>
