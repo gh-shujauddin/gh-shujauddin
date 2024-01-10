@@ -13,17 +13,15 @@
 <p align="center"> <a href="https://github.com/gh-shujauddin"><img
       src="https://github-profile-trophy.vercel.app/?username=gh-shujauddin&column=7" alt="gh-shujauddin" /></a> </p>
 
-- 🔭 I’m currently working on **projects using Java**
+- 🔭 I’m currently working on **projects with React Native**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Cross Platform Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gh-shujauddin](https://github.com/gh-shujauddin)
 
 - 📫 Reach me at **mshuja.uq@gmail.com**
 
 - 📄 Know about my experiences [https://gh-shujauddin.github.io/my-resume/](https://gh-shujauddin.github.io/my-resume/)
-
-- ⚡ Fun fact **I don't know that I love front-end or back-end**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
