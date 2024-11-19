@@ -13,9 +13,9 @@
 <p align="center"> <a href="https://github.com/gh-shujauddin"><img
       src="https://github-profile-trophy.vercel.app/?username=gh-shujauddin&column=7" alt="gh-shujauddin" /></a> </p>
 
-- 🔭 I’m currently working on **projects with React Native**
+- 🔭 I’m currently working on **blitz.Meet**
 
-- 🌱 I’m currently learning **Cross Platform Development**
+- 🌱 I’m currently learning **Advanced Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gh-shujauddin](https://github.com/gh-shujauddin)
 
